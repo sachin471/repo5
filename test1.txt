@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 2AFF-8722
-
- Directory of C:\Users\stans\Desktop\Myproject
-
-15-09-2022  11:47    <DIR>          .
-15-09-2022  11:47    <DIR>          ..
-15-09-2022  11:47                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  33,347,502,080 bytes free
+change1
